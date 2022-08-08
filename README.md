@@ -1,2 +1,3 @@
-# Lenguajes_II_2022_TEC
-Repositorio de ejercicios que se realizaran a lo largo del curso de Lenguajes de Programacion en el TEC.
+# Lenguajes de Programacion del segundo semestre (Instituto Tecnologico de Costa Rica)
+Repositorio de ejercicios que se realizaran a lo largo del curso Lenguajes de Programacion
+- Warren Ivan Alvarez Huete
