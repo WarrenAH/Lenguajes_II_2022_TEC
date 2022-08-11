@@ -195,3 +195,74 @@ func main() {
 	//Se ve el calzado existente despues de agregar nuevas unidades
 	recorrerSlice(lista_calzado_slice)
 }
+
+/*
+RESULTADO:
+
+Ya el calzado: Adidas de talla: 40 habia sido agregado anteriormente, agrega uno nuevo.
+Ya el calzado: Adidas de talla: 42 habia sido agregado anteriormente, agrega uno nuevo.
+Ya el calzado: Adidas de talla: 44 habia sido agregado anteriormente, agrega uno nuevo.
+El calzado: Adidas de talla: 33 no puede ser agregado, solo se permiten tallas de 34 al 44
+El calzado: Adidas de talla: 20 no puede ser agregado, solo se permiten tallas de 34 al 44
+El calzado: Adidas de talla: 45 no puede ser agregado, solo se permiten tallas de 34 al 44
+
+Nuestro calzado:
+Marca: Prada Precio: 3000 Talla: 34 Cantidad: 2
+Marca: Nike Precio: 700 Talla: 44 Cantidad: 4
+Marca: Toms Precio: 3444 Talla: 42 Cantidad: 6
+Marca: Reebok Precio: 5788 Talla: 35 Cantidad: 7
+Marca: Converse Precio: 67544 Talla: 36 Cantidad: 3
+Marca: Kickers Precio: 54556 Talla: 37 Cantidad: 4
+Marca: Timberland Precio: 35565 Talla: 39 Cantidad: 7
+Marca: Puma Precio: 3455 Talla: 43 Cantidad: 40
+Marca: Lotto Precio: 5433 Talla: 43 Cantidad: 41
+Marca: Adidas Precio: 6000 Talla: 40 Cantidad: 1
+Marca: Adidas Precio: 3500 Talla: 42 Cantidad: 5
+Marca: Adidas Precio: 4500 Talla: 44 Cantidad: 6
+
+El precio del calzado: Adidas de talla: 44 es de 4500 colones, su total por 6 par(es) es de 27000 colones.
+El precio del calzado: Prada de talla: 34 es de 3000 colones, su total por 2 par(es) es de 6000 colones.
+El precio del calzado: Converse de talla: 36 es de 67544 colones, su total por 3 par(es) es de 202632 colones.
+
+Nuestro calzado:
+Marca: Prada Precio: 3000 Talla: 34 Cantidad: 0
+Marca: Nike Precio: 700 Talla: 44 Cantidad: 4
+Marca: Toms Precio: 3444 Talla: 42 Cantidad: 6
+Marca: Reebok Precio: 5788 Talla: 35 Cantidad: 7
+Marca: Converse Precio: 67544 Talla: 36 Cantidad: 0
+Marca: Kickers Precio: 54556 Talla: 37 Cantidad: 4
+Marca: Timberland Precio: 35565 Talla: 39 Cantidad: 7
+Marca: Puma Precio: 3455 Talla: 43 Cantidad: 40
+Marca: Lotto Precio: 5433 Talla: 43 Cantidad: 41
+Marca: Adidas Precio: 6000 Talla: 40 Cantidad: 1
+Marca: Adidas Precio: 3500 Talla: 42 Cantidad: 5
+Marca: Adidas Precio: 4500 Talla: 44 Cantidad: 0
+
+El stock del calzado: Adidas de talla: 44 es 0, no se puede vender.
+El stock del calzado: Prada de talla: 34 es 0, no se puede vender.
+El stock del calzado: Converse de talla: 36 es 0, no se puede vender.
+El calzado: New Balance de talla: 44 no se encuentra en la base de datos, no se puede vender.
+El calzado: Victoria de talla: 33 no se encuentra en la base de datos, no se puede vender.
+El calzado: Lodi de talla: 36 no se encuentra en la base de datos, no se puede vender.
+El nuevo stock del calzado: Adidas de talla: 44 es de 2 unidad(es).
+El nuevo stock del calzado: Prada de talla: 34 es de 5 unidad(es).
+El nuevo stock del calzado: Converse de talla: 36 es de 4 unidad(es).
+El precio del calzado: Adidas de talla: 44 es de 4500 colones, su total por 1 par(es) es de 4500 colones.
+El precio del calzado: Prada de talla: 34 es de 3000 colones, su total por 1 par(es) es de 3000 colones.
+El precio del calzado: Converse de talla: 36 es de 67544 colones, su total por 1 par(es) es de 67544 colones.
+
+Nuestro calzado:
+Marca: Prada Precio: 3000 Talla: 34 Cantidad: 4
+Marca: Nike Precio: 700 Talla: 44 Cantidad: 4
+Marca: Toms Precio: 3444 Talla: 42 Cantidad: 6
+Marca: Reebok Precio: 5788 Talla: 35 Cantidad: 7
+Marca: Converse Precio: 67544 Talla: 36 Cantidad: 3
+Marca: Kickers Precio: 54556 Talla: 37 Cantidad: 4
+Marca: Timberland Precio: 35565 Talla: 39 Cantidad: 7
+Marca: Puma Precio: 3455 Talla: 43 Cantidad: 40
+Marca: Lotto Precio: 5433 Talla: 43 Cantidad: 41
+Marca: Adidas Precio: 6000 Talla: 40 Cantidad: 1
+Marca: Adidas Precio: 3500 Talla: 42 Cantidad: 5
+Marca: Adidas Precio: 4500 Talla: 44 Cantidad: 1
+
+*/

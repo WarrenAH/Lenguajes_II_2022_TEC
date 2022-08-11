@@ -85,3 +85,12 @@ func main() {
 	//Llamaremos a la funcion del programa
 	rotarSecuencia(secuenciaElementos, 3, 0)
 }
+
+/*
+RESULTADO:
+
+Secuencia original: [a  b  c  d  e  f  g  h]
+Cantidad de rotaciones: 3
+Direccion: 0 = izquierda
+Secuencia final rotada: [ d  e  f  g  h a  b  c]
+*/
