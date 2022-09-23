@@ -1,0 +1,2 @@
+Para el repositorio de la semana actual, hacer el ejercicio de eliminar elemento de lista y hacer las corridas 
+gráficamente de los ejercicios vistos en clase (insertar, factorial, miembro)
