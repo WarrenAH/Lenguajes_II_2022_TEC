@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\playa\\Desktop\\SEMANA 14\\Ejercicio 3\\C#\\calculadora\\calculadora.csproj",
+      "projectUniqueName": "C:\\Users\\playa\\Desktop\\Materia\\Lenguajes de programacion\\SEMANA 14\\Ejercicio 3\\C#\\calculadora\\calculadora.csproj",
       "projectName": "calculadora",
-      "projectPath": "C:\\Users\\playa\\Desktop\\SEMANA 14\\Ejercicio 3\\C#\\calculadora\\calculadora.csproj",
+      "projectPath": "C:\\Users\\playa\\Desktop\\Materia\\Lenguajes de programacion\\SEMANA 14\\Ejercicio 3\\C#\\calculadora\\calculadora.csproj",
       "packagesPath": "C:\\Users\\playa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\playa\\Desktop\\SEMANA 14\\Ejercicio 3\\C#\\calculadora\\obj\\",
+      "outputPath": "C:\\Users\\playa\\Desktop\\Materia\\Lenguajes de programacion\\SEMANA 14\\Ejercicio 3\\C#\\calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -106,7 +106,7 @@ namespace Demo
                 {
                     if (Double.IsNaN(numero1 + numero2))
                     {
-                        throw new OperacionNoValidaException("La operacion : " + numero1 + " * " + numero2 + ", no es valida");
+                        throw new OperacionNoValidaException("La operacion : " + numero1 + " + " + numero2 + ", no es valida");
                     }
                     if ((j == 1) && (listaOperadores.Count == 2))
                     {
@@ -129,7 +129,7 @@ namespace Demo
                 {
                     if (Double.IsNaN(numero1 / numero2))
                     {
-                        throw new OperacionNoValidaException("La operacion : " + numero1 + " * " + numero2 + ", no es valida");
+                        throw new OperacionNoValidaException("La operacion : " + numero1 + " / " + numero2 + ", no es valida");
                     }
                     if ((j == 1) && (listaOperadores.Count == 2))
                     {
@@ -152,7 +152,7 @@ namespace Demo
                 {
                     if (Double.IsNaN(numero1 - numero2))
                     {
-                        throw new OperacionNoValidaException("La operacion : " + numero1 + " * " + numero2 + ", no es valida");
+                        throw new OperacionNoValidaException("La operacion : " + numero1 + " - " + numero2 + ", no es valida");
                     }
                     if ((j == 1) && (listaOperadores.Count == 2))
                     {
